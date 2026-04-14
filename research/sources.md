@@ -1,108 +1,152 @@
-# sources.md — AI-Powered SEO Content Production
+# AI-Powered SEO Content Production — Research Sources
 
-> **Project Status:** Active Research / Documentation Phase  
-> **Core Focus:** Generative Engine Optimization (GEO) & LLM Citation Analysis  
-> **Timeline:** January 2025 – April 2026  
-> **Total Experts:** 10  
+> **Topic:** Generative Engine Optimization (GEO) & LLM Citation Analysis  
+> **Scope:** Jan 2025 – Apr 2026 · 10 experts · Active research
 
 ---
 
-## 🛠 Project Overview
-This repository serves as a centralized knowledge base for analyzing the intersection of LLMs and Search Engine Optimization. The goal is to document methodologies from leading practitioners on how modern AI search engines (Perplexity, SearchGPT, Google AIO) index and prioritize authoritative content.
+## Coverage Map
 
-* **Primary Data:** Located in [`/research/linkedin-posts/`](./linkedin-posts/) and [`/research/youtube-transcripts/`](./youtube-transcripts/).
-* **Audit Logic:** Experts are vetted for "Practitioner Status"—meaning they develop tools or manage active AI-SEO campaigns rather than just providing commentary.
-
----
-
-## 👤 Expert Directory
-
-### 1. Kevin Indig
-**Focus:** Business-level AI SEO strategy and persona-driven content frameworks.
-* **Annotation:** Key source for transitioning from traditional "keyword volume" metrics to "scenario-based investment planning" for AI search patterns.
-* **Links:** [Growth Memo](https://www.growth-memo.com/) | [LinkedIn](https://www.linkedin.com/in/kevinindig/)
-* **Data Logs:** [📄 `kevin-indig-linkedin.md`](./linkedin-posts/kevin-indig.md)
-
-### 2. Wes McDowell
-**Focus:** Practical GEO (Generative Engine Optimization) systems for SMBs.
-* **Annotation:** Focuses on checklist-driven workflows for ranking within ChatGPT and Perplexity, specifically for service-based businesses.
-* **Links:** [YouTube](https://www.youtube.com/@waboringchannel) | [Website](https://wesmcdowell.com/)
-* **Data Logs:** [📄 `wes-mcdowell-transcripts.md`](./youtube-transcripts/wes-mcdowell.md)
-
-### 3. Lily Ray
-**Focus:** Google E-E-A-T guidelines and AI Overview citation analysis.
-* **Annotation:** Essential for understanding which authority signals Google’s algorithms prioritize when selecting content for generative summaries.
-* **Links:** [LinkedIn](https://www.linkedin.com/in/lilyray/) | [Twitter/X](https://x.com/liaboray)
-* **Data Logs:** [📄 `lily-ray-linkedin.md`](./linkedin-posts/lily-ray.md)
-
-### 4. Michael King
-**Focus:** Information retrieval theory and technical NLP pipelines.
-* **Annotation:** Provides engineering-level insights into how LLMs parse, store, and rank content nodes within a search index.
-* **Links:** [YouTube](https://www.youtube.com/@iPullRank) | [LinkedIn](https://www.linkedin.com/in/michaelkingseo/)
-* **Data Logs:** [📄 `michael-king-linkedin.md`](./linkedin-posts/michael-king.md)
-
-### 5. Koray Tuğberk GÜBÜR
-**Focus:** Semantic SEO, Knowledge Graphs, and Topical Authority.
-* **Annotation:** Expert in building AI agents and entity-based frameworks that automate highly technical, high-authority content production.
-* **Links:** [YouTube](https://www.youtube.com/@HolisticSEO) | [LinkedIn](https://www.linkedin.com/in/koaboraytugberkgubur/)
-* **Data Logs:** [📄 `koray-gubur-linkedin.md`](./linkedin-posts/koray-gubur.md)
-
-### 6. Aleyda Solis
-**Focus:** International SEO and AI-driven structural workflow automation.
-* **Annotation:** Bridges the gap between technical global SEO and AI task management, offering scalable frameworks for international discovery.
-* **Links:** [SEOFOMO](https://www.aleydasolis.com/en/seofomo/) | [YouTube](https://www.youtube.com/@AleydaSolis)
-* **Data Logs:** [📄 `aleyda-solis-linkedin.md`](./linkedin-posts/aleyda-solis.md)
-
-### 7. Jason Barnard
-**Focus:** Answer Engine Optimization (AEO) and Entity Management.
-* **Annotation:** The definitive source for Brand Entity optimization, ensuring AI systems correctly "know" and recommend specific organizations.
-* **Links:** [Kalicube](https://kalicube.com/) | [LinkedIn](https://www.linkedin.com/in/jasonmbarnard/)
-* **Data Logs:** [📄 `jason-barnard-transcripts.md`](./youtube-transcripts/jason-barnard.md)
-
-### 8. Ross Simmonds
-**Focus:** Content Distribution and AI-first Content Strategy.
-* **Annotation:** Specializes in "GEO" tactics—how to get AI systems to discover, index, and cite content through aggressive distribution signals.
-* **Links:** [Foundation](https://foundationinc.co/) | [LinkedIn](https://www.linkedin.com/in/rosssimmonds/)
-* **Data Logs:** [📄 `ross-simmonds-linkedin.md`](./linkedin-posts/ross-simmonds.md)
-
-### 9. Dixon Jones
-**Focus:** NLP-driven internal linking and Semantic Analysis.
-* **Annotation:** Offers a tool-builder's perspective on how AI models interpret the structural relationships between different site entities.
-* **Links:** [InLinks](https://inlinks.com/) | [LinkedIn](https://www.linkedin.com/in/dixonjones/)
-* **Data Logs:** [📄 `dixon-jones-linkedin.md`](./linkedin-posts/dixon-jones.md)
-
-### 10. Marie Haynes
-**Focus:** Google Quality Rater Guidelines and E-E-A-T Risk Management.
-* **Annotation:** Leading authority on the "quality signals" that determine if AI content is trusted as a source or filtered as low-quality.
-* **Links:** [Website](https://www.mariehaynes.com/) | [YouTube](https://www.youtube.com/@MariHaynes)
-* **Data Logs:** [📄 `marie-haynes-linkedin.md`](./linkedin-posts/marie-haynes.md)
-
----
-
-## 🎯 Strategic Coverage Matrix
-Experts are selected to cover the full lifecycle of AI-powered content production:
-
-| Phase | Expert Primary Angle |
+| Angle | Expert |
 | :--- | :--- |
-| **Business Strategy** | Kevin Indig, Ross Simmonds |
-| **Trust & Risk** | Marie Haynes, Lily Ray |
-| **Technical & NLP** | Michael King, Dixon Jones |
-| **Implementation** | Wes McDowell, Aleyda Solis |
-| **Entity & AEO** | Jason Barnard, Koray GÜBÜR |
+| Business strategy | Kevin Indig · Ross Simmonds |
+| Content quality & E-E-A-T | Lily Ray · Marie Haynes |
+| NLP pipelines & tooling | Michael King · Dixon Jones |
+| Semantic & entity SEO | Koray Tuğberk GÜBÜR · Jason Barnard |
+| GEO workflows & implementation | Wes McDowell · Aleyda Solis |
 
 ---
 
-## 📊 Collection Log (2025–2026)
+## Experts
 
-| Expert | LinkedIn | YouTube | Site/Other | Current Status |
+### Kevin Indig
+*Growth advisor · former VP SEO at Shopify & G2*
+
+One of the few practitioners treating AI SEO as a business-level strategy problem rather than a channel tactic. His Growth Memo published a detailed framework for building AI SEO strategies that outlast individual tactics — advocates for persona-specific content matched to AI search patterns and scenario-based investment planning over traffic forecasts.
+
+[Growth Memo](https://www.growth-memo.com/) · [LinkedIn](https://www.linkedin.com/in/kevinindig/)  
+Collected → [`linkedin-posts/kevin-indig.md`](./linkedin-posts/kevin-indig.md) · [`other/kevin-indig-newsletter.md`](./other/kevin-indig-newsletter.md)
+
+---
+
+### Wes McDowell
+*AI SEO strategist · YouTube educator*
+
+Created one of the most practical step-by-step systems for ranking inside ChatGPT, Perplexity, and Google AI Overviews. Focuses on training AI platforms to recommend specific businesses by category. Produces checklist-driven content for SMBs — useful for understanding how AI SEO translates outside enterprise contexts.
+
+[YouTube](https://www.youtube.com/@waboringchannel) · [Website](https://wesmcdowell.com/)  
+Collected → [`youtube-transcripts/wes-mcdowell.md`](./youtube-transcripts/wes-mcdowell.md)
+
+---
+
+### Lily Ray
+*VP SEO Strategy, Amsive*
+
+Bridges Google's E-E-A-T quality framework with AI-generated content strategy. Publishes empirical analysis on how AI Overviews select and cite content. Essential voice on content quality standards in the AI era — one of the highest signal-to-noise practitioners tracking Google algorithm changes as they happen.
+
+[LinkedIn](https://www.linkedin.com/in/lilyray/) · [Twitter/X](https://x.com/liaboray)  
+Collected → [`linkedin-posts/lily-ray.md`](./linkedin-posts/lily-ray.md) · [`youtube-transcripts/lily-ray.md`](./youtube-transcripts/lily-ray.md)
+
+---
+
+### Michael King
+*Founder & CEO, iPullRank*
+
+Pioneer in applying NLP and machine learning to SEO workflows. iPullRank builds custom AI-driven content production pipelines — one of the few agencies with publicly documented engineering-level frameworks connecting information retrieval theory to practical SEO. Explains how LLMs parse and rank content at a depth most practitioners don't reach.
+
+[YouTube](https://www.youtube.com/@iPullRank) · [LinkedIn](https://www.linkedin.com/in/michaelkingseo/)  
+Collected → [`linkedin-posts/michael-king.md`](./linkedin-posts/michael-king.md) · [`youtube-transcripts/michael-king.md`](./youtube-transcripts/michael-king.md)
+
+---
+
+### Koray Tuğberk GÜBÜR
+*Founder, Holistic SEO & Digital*
+
+Built AI agents for semantic SEO and entity-based content production. Developed technical frameworks connecting knowledge graphs, topical authority, and LLM optimization. The most methodologically rigorous voice in the space — publishes long-form technical guides with empirical testing rather than opinion.
+
+[YouTube](https://www.youtube.com/@HolisticSEO) · [LinkedIn](https://www.linkedin.com/in/koaboraytugberkgubur/) · [Website](https://www.holisticseo.digital/)  
+Collected → [`linkedin-posts/koray-gubur.md`](./linkedin-posts/koray-gubur.md) · [`youtube-transcripts/koray-gubur.md`](./youtube-transcripts/koray-gubur.md) · [`other/koray-gubur-blog.md`](./other/koray-gubur-blog.md)
+
+---
+
+### Aleyda Solis
+*International SEO consultant · Founder, Orainti*
+
+Actively develops methodologies for AI-era content optimization, including structured data implementation and AI Overview targeting. Publishes the SEOFOMO newsletter and builds free workflow tools — brings an international and structural SEO angle that the other experts in this list don't cover.
+
+[SEOFOMO Newsletter](https://www.aleydasolis.com/en/seofomo/) · [YouTube](https://www.youtube.com/@AleydaSolis) · [LinkedIn](https://www.linkedin.com/in/aleydasolis/)  
+Collected → [`linkedin-posts/aleyda-solis.md`](./linkedin-posts/aleyda-solis.md) · [`youtube-transcripts/aleyda-solis.md`](./youtube-transcripts/aleyda-solis.md) · [`other/aleyda-solis-newsletter.md`](./other/aleyda-solis-newsletter.md)
+
+---
+
+### Jason Barnard
+*CEO, Kalicube*
+
+Coined and popularized Answer Engine Optimization (AEO) — a primary source, not a commentator. Builds tools and processes for brand entity optimization, ensuring AI systems correctly understand and recommend brands. His work on knowledge panels and entity-based search is foundational to modern AI SEO.
+
+[Kalicube](https://kalicube.com/) · [YouTube](https://www.youtube.com/@JasonBarnard) · [LinkedIn](https://www.linkedin.com/in/jasonmbarnard/)  
+Collected → [`linkedin-posts/jason-barnard.md`](./linkedin-posts/jason-barnard.md) · [`youtube-transcripts/jason-barnard.md`](./youtube-transcripts/jason-barnard.md)
+
+---
+
+### Ross Simmonds
+*CEO, Foundation Marketing*
+
+Operates an agency specializing in content distribution and AI-powered content strategy. Has published empirical data showing measurable lifts in AI source visibility through GEO techniques. Covers the distribution side of AI content — how to get AI systems to discover and cite your content — an angle the others don't prioritize.
+
+[Foundation](https://foundationinc.co/) · [YouTube](https://www.youtube.com/@RossSimmonds) · [LinkedIn](https://www.linkedin.com/in/rosssimmonds/)  
+Collected → [`linkedin-posts/ross-simmonds.md`](./linkedin-posts/ross-simmonds.md) · [`youtube-transcripts/ross-simmonds.md`](./youtube-transcripts/ross-simmonds.md)
+
+---
+
+### Dixon Jones
+*CEO, InLinks*
+
+Built InLinks, one of the first entity-based SEO platforms automating internal linking and schema markup using NLP. Provides a rare tool-builder perspective on how AI systems interpret content structure and semantic relationships — conducts empirical tests rather than publishing opinion.
+
+[InLinks](https://inlinks.com/) · [YouTube](https://www.youtube.com/@DixonJones) · [LinkedIn](https://www.linkedin.com/in/dixonjones/)  
+Collected → [`linkedin-posts/dixon-jones.md`](./linkedin-posts/dixon-jones.md) · [`youtube-transcripts/dixon-jones.md`](./youtube-transcripts/dixon-jones.md)
+
+---
+
+### Marie Haynes
+*CEO, Marie Haynes Consulting*
+
+Leading authority on Google's quality evaluation systems — E-E-A-T and Quality Rater Guidelines. Has adapted her frameworks specifically for AI-generated content and generative search visibility. Essential for understanding the risk side of AI content production: what quality signals AI systems prioritize when selecting sources, and what causes content to be ignored or penalized.
+
+[Website](https://www.mariehaynes.com/) · [YouTube](https://www.youtube.com/@MariHaynes) · [LinkedIn](https://www.linkedin.com/in/mariehaynes/)  
+Collected → [`linkedin-posts/marie-haynes.md`](./linkedin-posts/marie-haynes.md) · [`youtube-transcripts/marie-haynes.md`](./youtube-transcripts/marie-haynes.md) · [`other/marie-haynes-newsletter.md`](./other/marie-haynes-newsletter.md)
+
+---
+
+## Selection Criteria
+
+Experts were chosen against four filters:
+
+1. **Practitioner status** — they build tools, run agencies, or execute AI SEO campaigns; they don't only write about them
+2. **Recency** — active publication in 2025–2026 on AI-specific SEO topics
+3. **Methodological depth** — they publish frameworks, data, or processes that can be replicated, not just opinions
+4. **Complementary coverage** — together these 10 cover the full AI SEO content production lifecycle without significant overlap
+
+---
+
+## Collection Log
+
+| Expert | LinkedIn | YouTube | Other | Last updated |
 | :--- | :---: | :---: | :---: | :--- |
-| Kevin Indig | [ ] | [ ] | [ ] | 🟡 In Progress |
-| Wes McDowell | [ ] | [ ] | [ ] | ⚪ Pending |
-| Lily Ray | [ ] | [ ] | [ ] | ⚪ Pending |
-| Michael King | [ ] | [ ] | [ ] | ⚪ Pending |
-| Koray GÜBÜR | [ ] | [ ] | [ ] | ⚪ Pending |
-| Aleyda Solis | [ ] | [ ] | [ ] | ⚪ Pending |
-| Jason Barnard | [ ] | [ ] | [ ] | ⚪ Pending |
-| Ross Simmonds | [ ] | [ ] | [ ] | ⚪ Pending |
-| Dixon Jones | [ ] | [ ] | [ ] | ⚪ Pending |
-| Marie Haynes | [ ] | [ ] | [ ] | ⚪ Pending |
+| Kevin Indig | ☐ | ☐ | ☐ | — |
+| Wes McDowell | ☐ | ☐ | ☐ | — |
+| Lily Ray | ☐ | ☐ | ☐ | — |
+| Michael King | ☐ | ☐ | ☐ | — |
+| Koray Tuğberk GÜBÜR | ☐ | ☐ | ☐ | — |
+| Aleyda Solis | ☐ | ☐ | ☐ | — |
+| Jason Barnard | ☐ | ☐ | ☐ | — |
+| Ross Simmonds | ☐ | ☐ | ☐ | — |
+| Dixon Jones | ☐ | ☐ | ☐ | — |
+| Marie Haynes | ☐ | ☐ | ☐ | — |
+
+---
+
+## Key Topics
+
+Answer Engine Optimization (AEO) · Generative Engine Optimization (GEO) · AI Overview optimization · Entity-based and semantic SEO · E-E-A-T for AI-generated content · LLM citation and brand visibility · AI-powered content production workflows · Structured data and schema for AI discovery
