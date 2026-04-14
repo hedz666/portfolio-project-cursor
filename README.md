@@ -1,23 +1,82 @@
-# Portfolio Project: Development Environment Setup
+# AI-Powered SEO Content Production — Research Repository
 
-## 1. Tools Installed
-* **Cursor IDE**: Primary AI-powered code editor.
-* **Claude Code Extension**: Integrated AI assistant for advanced coding tasks.
-* **Codex Extension**: OpenAI’s coding agent for enhanced autocomplete and logic.
-* **Git**: Version control system for repository management.
+> Research project mapping how leading practitioners build, optimize, and
+> distribute content for AI search engines (Google AIO, Perplexity, ChatGPT).
 
-## 2. Steps Completed.
-1. **Installation**: Successfully installed Cursor IDE and required AI extensions.
-2. **GitHub Integration**: Created a public repository and connected it with the local development environment.
-3. **Documentation**: Initialized project documentation via README.md to track progress.
+---
 
-## 3. Issues and Solutions
+## What This Repository Is
 
-### Issue: Network Restriction (ISP Block)
-* **Problem**: The official Cursor website was unreachable due to local ISP DNS restrictions (ERR_TIMED_OUT).
-* **Solution**: Using VPN.
+This repo contains primary research for building a playbook on AI-powered SEO
+content production. The goal is to collect and analyze frameworks, workflows,
+and empirical data from 10 practitioners who actively run AI SEO campaigns —
+not just write about them.
 
-### Issue: Git Command Not Found
-* **Problem**: Cursor failed to execute `Git: Clone`.
-* **Solution**: Installed Git for Windows, configured System PATH, and used a manual upload method to ensure the project met the deadline.
+The research covers the full content production lifecycle:
+strategy → creation → optimization → distribution → measurement.
 
+---
+
+## Why These 10 Experts
+
+Experts were selected against four criteria:
+
+1. **Practitioner status** — they build tools, run agencies, or execute
+   campaigns; they don't only publish opinions
+2. **Recency** — active publication in 2025–2026 on AI-specific SEO topics
+3. **Methodological depth** — they publish replicable frameworks, not just takes
+4. **Complementary coverage** — together they cover every phase of the
+   AI SEO content lifecycle without significant overlap
+
+| Phase | Expert |
+| :--- | :--- |
+| Business strategy | Kevin Indig · Ross Simmonds |
+| Content quality & E-E-A-T | Lily Ray · Marie Haynes |
+| NLP pipelines & tooling | Michael King · Dixon Jones |
+| Semantic & entity SEO | Koray Tuğberk GÜBÜR · Jason Barnard |
+| GEO workflows & implementation | Wes McDowell · Aleyda Solis |
+
+---
+
+## What Was Collected
+
+| Expert | LinkedIn Posts | YouTube Transcripts | Other |
+| :--- | :---: | :---: | :---: |
+| Kevin Indig | ☐ | ☐ | ☐ |
+| Wes McDowell | ☐ | ☐ | ☐ |
+| Lily Ray | ☐ | ☐ | ☐ |
+| Michael King | ☐ | ☐ | ☐ |
+| Koray Tuğberk GÜBÜR | ☐ | ☐ | ☐ |
+| Aleyda Solis | ☐ | ☐ | ☐ |
+| Jason Barnard | ☐ | ☐ | ☐ |
+| Ross Simmonds | ☐ | ☐ | ☐ |
+| Dixon Jones | ☐ | ☐ | ☐ |
+| Marie Haynes | ☐ | ☐ | ☐ |
+
+---
+
+## Repository Structure
+portfolio-project-cursor/
+├── research/
+│   ├── sources.md              # annotated expert list with links
+│   ├── linkedin-posts/         # posts organized by author
+│   ├── youtube-transcripts/    # transcripts organized by expert
+│   └── other/                  # newsletters, blog posts, podcasts
+└── README.md
+
+---
+
+## Key Topics
+
+Answer Engine Optimization (AEO) · Generative Engine Optimization (GEO) ·
+AI Overview optimization · Entity-based and semantic SEO ·
+E-E-A-T for AI-generated content · LLM citation and brand visibility ·
+AI-powered content production workflows · Structured data for AI discovery
+
+---
+
+## Tools Used
+
+- `youtube-transcript-api` — automated transcript collection via Python
+- Manual collection — LinkedIn posts copied and formatted as markdown
+- Git — incremental commits per expert as content was collected
