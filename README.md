@@ -32,7 +32,7 @@ Experts were selected against four criteria:
 | :--- | :--- |
 | Business strategy | Kevin Indig · Ross Simmonds |
 | Zero-click search & AI content discovery | Amanda Natividad · Marie Haynes |
-| NLP pipelines & tooling | Michael King · Dixon Jones |
+| NLP & AI content optimization tooling | Bernard Huang · Dixon Jones |
 | Semantic & entity SEO | Koray Tuğberk GÜBÜR · Jason Barnard |
 | GEO workflows & implementation | Wes McDowell · Aleyda Solis |
 
@@ -45,7 +45,7 @@ Experts were selected against four criteria:
 | Kevin Indig | ☐ | ☐ | ☐ |
 | Wes McDowell | ☐ | ☐ | ☐ |
 | Amanda Natividad | ☐ | ☐ | ☐ |
-| Michael King | ☐ | ☐ | ☐ |
+| Bernard Huang | ☐ | ☐ | ☐ |
 | Koray Tuğberk GÜBÜR | ☐ | ☐ | ☐ |
 | Aleyda Solis | ☐ | ☐ | ☐ |
 | Jason Barnard | ☐ | ☐ | ☐ |

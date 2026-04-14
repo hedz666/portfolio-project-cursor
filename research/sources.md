@@ -11,7 +11,7 @@
 | :--- | :--- |
 | Business strategy | Kevin Indig · Ross Simmonds |
 | Zero-click search & AI content discovery | Amanda Natividad · Marie Haynes |
-| NLP pipelines & tooling | Michael King · Dixon Jones |
+| NLP & AI content optimization tooling | Bernard Huang · Dixon Jones |
 | Semantic & entity SEO | Koray Tuğberk GÜBÜR · Jason Barnard |
 | GEO workflows & implementation | Wes McDowell · Aleyda Solis |
 
@@ -49,13 +49,13 @@ Collected → [`linkedin-posts/amanda-natividad.md`](./linkedin-posts/amanda-nat
 
 ---
 
-### Michael King
-*Founder & CEO, iPullRank*
+### Bernard Huang
+*Co-founder, Clearscope*
 
-Pioneer in applying NLP and machine learning to SEO workflows. iPullRank builds custom AI-driven content production pipelines — one of the few agencies with publicly documented engineering-level frameworks connecting information retrieval theory to practical SEO. Explains how LLMs parse and rank content at a depth most practitioners don't reach.
+Co-founder of Clearscope. Publishes and builds practical tooling for **NLP-driven content optimization** and AI-assisted content workflows—useful for understanding how teams turn semantic relevance and topical coverage into repeatable production systems.
 
-[YouTube](https://www.youtube.com/@iPullRank) · [LinkedIn](https://www.linkedin.com/in/michaelkingseo/)  
-Collected → [`linkedin-posts/michael-king.md`](./linkedin-posts/michael-king.md) · [`youtube-transcripts/michael-king.md`](./youtube-transcripts/michael-king.md)
+[YouTube](https://www.youtube.com/@Clearscope) · [LinkedIn](https://www.linkedin.com/in/bernardhwang/) · [Website](https://www.clearscope.io/)  
+Collected → [`linkedin-posts/bernard-huang.md`](./linkedin-posts/bernard-huang.md) · [`youtube-transcripts/bernard-huang.md`](./youtube-transcripts/bernard-huang.md)
 
 ---
 
@@ -137,7 +137,7 @@ Experts were chosen against four filters:
 | Kevin Indig | ☐ | ☐ | ☐ | — |
 | Wes McDowell | ☐ | ☐ | ☐ | — |
 | Amanda Natividad | ☐ | ☐ | ☐ | — |
-| Michael King | ☐ | ☐ | ☐ | — |
+| Bernard Huang | ☐ | ☐ | ☐ | — |
 | Koray Tuğberk GÜBÜR | ☐ | ☐ | ☐ | — |
 | Aleyda Solis | ☐ | ☐ | ☐ | — |
 | Jason Barnard | ☐ | ☐ | ☐ | — |
