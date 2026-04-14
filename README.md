@@ -31,7 +31,7 @@ Experts were selected against four criteria:
 | Phase | Expert |
 | :--- | :--- |
 | Business strategy | Kevin Indig · Ross Simmonds |
-| Content quality & E-E-A-T | Lily Ray · Marie Haynes |
+| Zero-click search & AI content discovery | Amanda Natividad · Marie Haynes |
 | NLP pipelines & tooling | Michael King · Dixon Jones |
 | Semantic & entity SEO | Koray Tuğberk GÜBÜR · Jason Barnard |
 | GEO workflows & implementation | Wes McDowell · Aleyda Solis |
@@ -44,7 +44,7 @@ Experts were selected against four criteria:
 | :--- | :---: | :---: | :---: |
 | Kevin Indig | ☐ | ☐ | ☐ |
 | Wes McDowell | ☐ | ☐ | ☐ |
-| Lily Ray | ☐ | ☐ | ☐ |
+| Amanda Natividad | ☐ | ☐ | ☐ |
 | Michael King | ☐ | ☐ | ☐ |
 | Koray Tuğberk GÜBÜR | ☐ | ☐ | ☐ |
 | Aleyda Solis | ☐ | ☐ | ☐ |

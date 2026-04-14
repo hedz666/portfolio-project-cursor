@@ -10,7 +10,7 @@
 | Angle | Expert |
 | :--- | :--- |
 | Business strategy | Kevin Indig · Ross Simmonds |
-| Content quality & E-E-A-T | Lily Ray · Marie Haynes |
+| Zero-click search & AI content discovery | Amanda Natividad · Marie Haynes |
 | NLP pipelines & tooling | Michael King · Dixon Jones |
 | Semantic & entity SEO | Koray Tuğberk GÜBÜR · Jason Barnard |
 | GEO workflows & implementation | Wes McDowell · Aleyda Solis |
@@ -39,13 +39,13 @@ Collected → [`youtube-transcripts/wes-mcdowell.md`](./youtube-transcripts/wes-
 
 ---
 
-### Lily Ray
-*VP SEO Strategy, Amsive*
+### Amanda Natividad
+*VP Marketing, SparkToro*
 
-Bridges Google's E-E-A-T quality framework with AI-generated content strategy. Publishes empirical analysis on how AI Overviews select and cite content. Essential voice on content quality standards in the AI era — one of the highest signal-to-noise practitioners tracking Google algorithm changes as they happen.
+Publishes original research and clear frameworks on **zero-click search** and how content gets discovered in AI search without traditional clicks. One of the clearest voices documenting the shift from keyword SEO toward **entity, brand, and visibility** signals in AI-driven discovery.
 
-[LinkedIn](https://www.linkedin.com/in/lilyray/) · [Twitter/X](https://x.com/liaboray)  
-Collected → [`linkedin-posts/lily-ray.md`](./linkedin-posts/lily-ray.md) · [`youtube-transcripts/lily-ray.md`](./youtube-transcripts/lily-ray.md)
+[LinkedIn](https://www.linkedin.com/in/amandanat/) · [Twitter/X](https://x.com/amandanat) · [SparkToro Blog](https://sparktoro.com/blog)  
+Collected → [`linkedin-posts/amanda-natividad.md`](./linkedin-posts/amanda-natividad.md) · [`youtube-transcripts/amanda-natividad.md`](./youtube-transcripts/amanda-natividad.md)
 
 ---
 
@@ -136,7 +136,7 @@ Experts were chosen against four filters:
 | :--- | :---: | :---: | :---: | :--- |
 | Kevin Indig | ☐ | ☐ | ☐ | — |
 | Wes McDowell | ☐ | ☐ | ☐ | — |
-| Lily Ray | ☐ | ☐ | ☐ | — |
+| Amanda Natividad | ☐ | ☐ | ☐ | — |
 | Michael King | ☐ | ☐ | ☐ | — |
 | Koray Tuğberk GÜBÜR | ☐ | ☐ | ☐ | — |
 | Aleyda Solis | ☐ | ☐ | ☐ | — |
