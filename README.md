@@ -42,16 +42,18 @@ Experts were selected against four criteria:
 
 | Expert | LinkedIn Posts | YouTube Transcripts | Other |
 | :--- | :---: | :---: | :---: |
-| Kevin Indig | ☐ | ☐ | ☐ |
-| Wes McDowell | ☐ | ☐ | ☐ |
-| Amanda Natividad | ☐ | ☐ | ☐ |
-| Bernard Huang | ☐ | ☐ | ☐ |
-| Koray Tuğberk GÜBÜR | ☐ | ☐ | ☐ |
-| Aleyda Solis | ☐ | ☐ | ☐ |
-| Jason Barnard | ☐ | ☐ | ☐ |
-| Ross Simmonds | ☐ | ☐ | ☐ |
-| Dixon Jones | ☐ | ☐ | ☐ |
-| Marie Haynes | ☐ | ☐ | ☐ |
+| Expert | LinkedIn Posts | YouTube Transcripts | Other |
+| :--- | :---: | :---: | :---: |
+| Kevin Indig | □ | □ | ☑ |
+| Wes McDowell | □ | ☑ | □ |
+| Amanda Natividad | ☑ | □ | □ |
+| Bernard Huang | □ | ☑ | □ |
+| Koray Tuğberk GÜBÜR | ☑ | □ | □ |
+| Aleyda Solís | ☑ | □ | □ |
+| Jason Barnard | ☑ | □ | □ |
+| Ross Simmonds | ☑ | □ | □ |
+| Dixon Jones | ☑ | □ | □ |
+| Marie Haynes | ☑ | □ | □ |
 
 ---
 
