@@ -25,7 +25,7 @@
 One of the few practitioners treating AI SEO as a business-level strategy problem rather than a channel tactic. His Growth Memo published a detailed framework for building AI SEO strategies that outlast individual tactics — advocates for persona-specific content matched to AI search patterns and scenario-based investment planning over traffic forecasts.
 
 [Growth Memo](https://www.growth-memo.com/) · [LinkedIn](https://www.linkedin.com/in/kevinindig/)  
-Collected → [`linkedin-posts/kevin-indig.md`](./linkedin-posts/kevin-indig.md) · [`other/kevin-indig-newsletter.md`](./other/kevin-indig-newsletter.md)
+Collected → [`other/kevin-indig-newsletter.md`](./other/kevin-indig-newsletter.md)
 
 ---
 
@@ -45,7 +45,7 @@ Collected → [`youtube-transcripts/wes-mcdowell.md`](./youtube-transcripts/wes-
 Publishes original research and clear frameworks on **zero-click search** and how content gets discovered in AI search without traditional clicks. One of the clearest voices documenting the shift from keyword SEO toward **entity, brand, and visibility** signals in AI-driven discovery.
 
 [LinkedIn](https://www.linkedin.com/in/amandanat/) · [Twitter/X](https://x.com/amandanat) · [SparkToro Blog](https://sparktoro.com/blog)  
-Collected → [`linkedin-posts/amanda-natividad.md`](./linkedin-posts/amanda-natividad.md) · [`youtube-transcripts/amanda-natividad.md`](./youtube-transcripts/amanda-natividad.md)
+Collected → [`linkedin-posts/amanda-natividad.md`](./linkedin-posts/amanda-natividad.md) · 
 
 ---
 
@@ -54,8 +54,8 @@ Collected → [`linkedin-posts/amanda-natividad.md`](./linkedin-posts/amanda-nat
 
 Co-founder of Clearscope. Publishes and builds practical tooling for **NLP-driven content optimization** and AI-assisted content workflows—useful for understanding how teams turn semantic relevance and topical coverage into repeatable production systems.
 
-[YouTube](https://www.youtube.com/@Clearscope) · [LinkedIn](https://www.linkedin.com/in/bernardhwang/) · [Website](https://www.clearscope.io/)  
-Collected → [`linkedin-posts/bernard-huang.md`](./linkedin-posts/bernard-huang.md) · [`youtube-transcripts/bernard-huang.md`](./youtube-transcripts/bernard-huang.md)
+[YouTube](https://www.youtube.com/@Clearscope) · [LinkedIn](https://www.linkedin.com/in/bernardjhuang/) · [Website](https://www.clearscope.io/)  
+Collected → [`youtube-transcripts/bernard-huang.md`](./youtube-transcripts/bernard-huang.md)
 
 ---
 
@@ -64,8 +64,8 @@ Collected → [`linkedin-posts/bernard-huang.md`](./linkedin-posts/bernard-huang
 
 Built AI agents for semantic SEO and entity-based content production. Developed technical frameworks connecting knowledge graphs, topical authority, and LLM optimization. The most methodologically rigorous voice in the space — publishes long-form technical guides with empirical testing rather than opinion.
 
-[YouTube](https://www.youtube.com/@HolisticSEO) · [LinkedIn](https://www.linkedin.com/in/koaboraytugberkgubur/) · [Website](https://www.holisticseo.digital/)  
-Collected → [`linkedin-posts/koray-gubur.md`](./linkedin-posts/koray-gubur.md) · [`youtube-transcripts/koray-gubur.md`](./youtube-transcripts/koray-gubur.md) · [`other/koray-gubur-blog.md`](./other/koray-gubur-blog.md)
+[YouTube](https://www.youtube.com/@HolisticSEO) · [LinkedIn](http://linkedin.com/in/koray-tugberk-gubur/) · [Website](https://www.holisticseo.digital/)  
+Collected → [`linkedin-posts/koray-gubur.md`](./linkedin-posts/koray-gubur.md) · 
 
 ---
 
