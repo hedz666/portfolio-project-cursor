@@ -104,8 +104,8 @@ Collected → [`linkedin-posts/ross-simmonds.md`](./linkedin-posts/ross-simmonds
 
 Built InLinks, one of the first entity-based SEO platforms automating internal linking and schema markup using NLP. Provides a rare tool-builder perspective on how AI systems interpret content structure and semantic relationships — conducts empirical tests rather than publishing opinion.
 
-[InLinks](https://inlinks.com/) · [YouTube](https://www.youtube.com/@DixonJones) · [LinkedIn](https://www.linkedin.com/in/dixonjones/)  
-Collected → [`linkedin-posts/dixon-jones.md`](./linkedin-posts/dixon-jones.md) · [`youtube-transcripts/dixon-jones.md`](./youtube-transcripts/dixon-jones.md)
+[InLinks](https://inlinks.com/) · [LinkedIn](https://www.linkedin.com/in/dixonjones/)  
+Collected → [`linkedin-posts/dixon-jones.md`](./linkedin-posts/dixon-jones.md)
 
 ---
 
@@ -114,8 +114,8 @@ Collected → [`linkedin-posts/dixon-jones.md`](./linkedin-posts/dixon-jones.md)
 
 Leading authority on Google's quality evaluation systems — E-E-A-T and Quality Rater Guidelines. Has adapted her frameworks specifically for AI-generated content and generative search visibility. Essential for understanding the risk side of AI content production: what quality signals AI systems prioritize when selecting sources, and what causes content to be ignored or penalized.
 
-[Website](https://www.mariehaynes.com/) · [YouTube](https://www.youtube.com/@MariHaynes) · [LinkedIn](https://www.linkedin.com/in/mariehaynes/)  
-Collected → [`linkedin-posts/marie-haynes.md`](./linkedin-posts/marie-haynes.md) · [`youtube-transcripts/marie-haynes.md`](./youtube-transcripts/marie-haynes.md) · [`other/marie-haynes-newsletter.md`](./other/marie-haynes-newsletter.md)
+[Website](https://www.mariehaynes.com/) · [YouTube](https://www.youtube.com/@Marie_Haynes) · [LinkedIn](https://www.linkedin.com/in/marie-haynes/)  
+Collected → [`linkedin-posts/marie-haynes.md`](./linkedin-posts/marie-haynes.md)
 
 ---
 
@@ -134,16 +134,16 @@ Experts were chosen against four filters:
 
 | Expert | LinkedIn | YouTube | Other | Last updated |
 | :--- | :---: | :---: | :---: | :--- |
-| Kevin Indig | ☐ | ☐ | ☐ | — |
-| Wes McDowell | ☐ | ☐ | ☐ | — |
-| Amanda Natividad | ☐ | ☐ | ☐ | — |
-| Bernard Huang | ☐ | ☐ | ☐ | — |
-| Koray Tuğberk GÜBÜR | ☐ | ☐ | ☐ | — |
-| Aleyda Solis | ☐ | ☐ | ☐ | — |
-| Jason Barnard | ☐ | ☐ | ☐ | — |
-| Ross Simmonds | ☐ | ☐ | ☐ | — |
-| Dixon Jones | ☐ | ☐ | ☐ | — |
-| Marie Haynes | ☐ | ☐ | ☐ | — |
+| Kevin Indig | □ | □ | ☑ | Apr 2026 |
+| Wes McDowell | □ | ☑ | □ | – |
+| Amanda Natividad | ☑ | □ | □ | Apr 2026 |
+| Bernard Huang | □ | ☑ | □ | Apr 2026 |
+| Koray Tuğberk GÜBÜR | ☑ | □ | □ | Apr 2026 |
+| Aleyda Solís | ☑ | □ | □ | Apr 2026 |
+| Jason Barnard | ☑ | □ | □ | Apr 2026 |
+| Ross Simmonds | ☑ | □ | □ | Apr 2026 |
+| Dixon Jones | ☑ | □ | □ | Apr 2026 |
+| Marie Haynes | ☑ | □ | □ | Apr 2026 |
 
 ---
 
