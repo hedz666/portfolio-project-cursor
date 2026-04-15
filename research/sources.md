@@ -65,7 +65,7 @@ Collected → [`youtube-transcripts/bernard-huang.md`](./youtube-transcripts/ber
 Built AI agents for semantic SEO and entity-based content production. Developed technical frameworks connecting knowledge graphs, topical authority, and LLM optimization. The most methodologically rigorous voice in the space — publishes long-form technical guides with empirical testing rather than opinion.
 
 [YouTube](https://www.youtube.com/@HolisticSEO) · [LinkedIn](http://linkedin.com/in/koray-tugberk-gubur/) · [Website](https://www.holisticseo.digital/)  
-Collected → [`linkedin-posts/koray-gubur.md`](./linkedin-posts/koray-gubur.md) · 
+Collected → [`linkedin-posts/koray-tugberk.md`](./linkedin-posts/koray-tugberk.md) · 
 
 ---
 
@@ -74,8 +74,8 @@ Collected → [`linkedin-posts/koray-gubur.md`](./linkedin-posts/koray-gubur.md)
 
 Actively develops methodologies for AI-era content optimization, including structured data implementation and AI Overview targeting. Publishes the SEOFOMO newsletter and builds free workflow tools — brings an international and structural SEO angle that the other experts in this list don't cover.
 
-[SEOFOMO Newsletter](https://www.aleydasolis.com/en/seofomo/) · [YouTube](https://www.youtube.com/@AleydaSolis) · [LinkedIn](https://www.linkedin.com/in/aleydasolis/)  
-Collected → [`linkedin-posts/aleyda-solis.md`](./linkedin-posts/aleyda-solis.md) · [`youtube-transcripts/aleyda-solis.md`](./youtube-transcripts/aleyda-solis.md) · [`other/aleyda-solis-newsletter.md`](./other/aleyda-solis-newsletter.md)
+[SEOFOMO Newsletter](https://www.aleydasolis.com/) · [YouTube](https://www.youtube.com/@CrawlingMondaysbyAleyda) · [LinkedIn](https://www.linkedin.com/in/aleyda/)  
+Collected → [`linkedin-posts/aleyda-solis.md`](./linkedin-posts/aleyda-solis.md)
 
 ---
 
