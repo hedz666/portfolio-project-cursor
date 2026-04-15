@@ -84,8 +84,8 @@ Collected → [`linkedin-posts/aleyda-solis.md`](./linkedin-posts/aleyda-solis.m
 
 Coined and popularized Answer Engine Optimization (AEO) — a primary source, not a commentator. Builds tools and processes for brand entity optimization, ensuring AI systems correctly understand and recommend brands. His work on knowledge panels and entity-based search is foundational to modern AI SEO.
 
-[Kalicube](https://kalicube.com/) · [YouTube](https://www.youtube.com/@JasonBarnard) · [LinkedIn](https://www.linkedin.com/in/jasonmbarnard/)  
-Collected → [`linkedin-posts/jason-barnard.md`](./linkedin-posts/jason-barnard.md) · [`youtube-transcripts/jason-barnard.md`](./youtube-transcripts/jason-barnard.md)
+[Kalicube](https://kalicube.com/) · [LinkedIn](https://www.linkedin.com/in/jasonmbarnard/)  
+Collected → [`linkedin-posts/jason-barnard.md`](./linkedin-posts/jason-barnard.md)
 
 ---
 
@@ -94,8 +94,8 @@ Collected → [`linkedin-posts/jason-barnard.md`](./linkedin-posts/jason-barnard
 
 Operates an agency specializing in content distribution and AI-powered content strategy. Has published empirical data showing measurable lifts in AI source visibility through GEO techniques. Covers the distribution side of AI content — how to get AI systems to discover and cite your content — an angle the others don't prioritize.
 
-[Foundation](https://foundationinc.co/) · [YouTube](https://www.youtube.com/@RossSimmonds) · [LinkedIn](https://www.linkedin.com/in/rosssimmonds/)  
-Collected → [`linkedin-posts/ross-simmonds.md`](./linkedin-posts/ross-simmonds.md) · [`youtube-transcripts/ross-simmonds.md`](./youtube-transcripts/ross-simmonds.md)
+[YouTube](https://www.youtube.com/@RossSimmondsTV) · [LinkedIn](https://www.linkedin.com/in/rosssimmonds/)  
+Collected → [`linkedin-posts/ross-simmonds.md`](./linkedin-posts/ross-simmonds.md)
 
 ---
 
