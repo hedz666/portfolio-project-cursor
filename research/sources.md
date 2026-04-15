@@ -135,9 +135,9 @@ Experts were chosen against four filters:
 | Expert | LinkedIn | YouTube | Other | Last updated |
 | :--- | :---: | :---: | :---: | :--- |
 | Kevin Indig | □ | □ | ☑ | Apr 2026 |
-| Wes McDowell | □ | ☑ | □ | – |
+| Wes McDowell | □ | ☑ | □ | Aug 2025 |
 | Amanda Natividad | ☑ | □ | □ | Apr 2026 |
-| Bernard Huang | □ | ☑ | □ | Apr 2026 |
+| Bernard Huang | □ | ☑ | □ | Dec 2025 |
 | Koray Tuğberk GÜBÜR | ☑ | □ | □ | Apr 2026 |
 | Aleyda Solís | ☑ | □ | □ | Apr 2026 |
 | Jason Barnard | ☑ | □ | □ | Apr 2026 |
