@@ -7,7 +7,7 @@
 ---
 
 ## Post 1
-**Date:** (isi tanggal postingan)  
+**Date:** 15 Apr 2026 
 **URL:** https://www.linkedin.com/in/jasonbarnard/  
 **Content:**
 
